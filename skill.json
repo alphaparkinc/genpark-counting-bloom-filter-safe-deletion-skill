@@ -1,0 +1,20 @@
+{
+  "name": "genpark-counting-bloom-filter-safe-deletion-skill",
+  "version": "1.0.0",
+  "description": "Counting Bloom Filter supporting item insertion, safe deletion, and membership testing without false negatives",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "counting-bloom-filter",
+    "probabilistic-data-structures",
+    "membership-query",
+    "hash-filters",
+    "python-standard-library",
+    "agent-skills",
+    "distributed-storage",
+    "caching",
+    "bloom-filter",
+    "algorithm"
+  ]
+}
