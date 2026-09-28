@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-counting-bloom-filter-safe-deletion-skill"
+version = "1.0.0"
+description = "Counting Bloom Filter supporting item insertion, safe deletion, and membership testing without false negatives"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
