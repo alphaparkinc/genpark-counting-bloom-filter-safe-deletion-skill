@@ -1,0 +1,6 @@
+name: genpark-counting-bloom-filter-safe-deletion-skill
+version: 1.0.0
+description: Counting Bloom Filter supporting item insertion, safe deletion, and membership testing without false negatives
+command: python
+args:
+  - mcp_server.py
